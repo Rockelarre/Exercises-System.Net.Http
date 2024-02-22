@@ -1,0 +1,7 @@
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\obj\Debug\Exercises_System.Net.Http.csproj.AssemblyReference.cache
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\obj\Debug\Exercises_System.Net.Http.csproj.CoreCompileInputs.cache
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\bin\Debug\Exercises_System.Net.Http.exe.config
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\bin\Debug\Exercises_System.Net.Http.exe
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\bin\Debug\Exercises_System.Net.Http.pdb
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\obj\Debug\Exercises_System.Net.Http.exe
+C:\Users\dvega\source\EJERCICIOS\Exercises_System.Net.Http\Exercises_System.Net.Http\obj\Debug\Exercises_System.Net.Http.pdb
