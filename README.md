@@ -5,3 +5,4 @@
 ### - HttpClient - GetAsync()
 ### - HttpClient - PostAsync()
 ### - StringContent - CopyToAsync()
+### - HttpRequestException ex
