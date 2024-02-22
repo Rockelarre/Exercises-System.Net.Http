@@ -2,5 +2,6 @@
 
 ## List of Classes
 
-### - HttpClient: GET
-### - HttpClient: POST
+### - HttpClient - GetAsync()
+### - HttpClient - PostAsync()
+### - StringContent - CopyToAsync()
