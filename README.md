@@ -7,8 +7,8 @@
 - Es una forma más simple de enviar una solicitud HTTP.
 
 ### - HttpClient - PostAsync()
-It is a simpler way to send an HTTP request.
-Es una forma más simple de enviar una solicitud HTTP.
+- It is a simpler way to send an HTTP request.
+- Es una forma más simple de enviar una solicitud HTTP.
 
 ### - StringContent - CopyToAsync()
 - StringContent is a class that represents the content of an HTTP request or an HTTP response as a text string.
