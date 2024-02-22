@@ -14,7 +14,7 @@ namespace Exercises_System.Net.Http
             Console.WriteLine("1. HttpClient - GetAsync()");
             Console.WriteLine("2. HttpClient - PostAsync()");
             Console.WriteLine("3. StringContent - CopyToAsync()");
-            Console.WriteLine("4. HttpRequestException - ex.Message");
+            Console.WriteLine("4. HttpRequestException ex");
 
             Console.WriteLine("");
 
