@@ -12,7 +12,7 @@ namespace Exercises_System.Net.Http
             Console.WriteLine("Elija una opción para ver su funcionamiento:");
             Console.WriteLine("");
             Console.WriteLine("1. HttpClient: GET");
-            Console.WriteLine("2. Opción 2");
+            Console.WriteLine("2. HttpClient: POST");
             Console.WriteLine("3. Opción 3");
             Console.WriteLine("4. Salir");
 
@@ -20,14 +20,15 @@ namespace Exercises_System.Net.Http
 
             string opcion = Console.ReadLine();
 
+            var myHttpClient = new Class_HttpClient();
+
             switch (opcion)
             {
                 case "1":
-                    var myHttpClient = new Class_HttpClient();
                     await myHttpClient.HttpGetRequest();
                     break;
                 case "2":
-                    Console.WriteLine("Ha elegido la Opción 2");
+                    await myHttpClient.HttpPostRequest();
                     break;
                 case "3":
                     Console.WriteLine("Ha elegido la Opción 3");
