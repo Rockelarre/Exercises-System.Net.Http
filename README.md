@@ -1,3 +1,6 @@
-# Exercises-System.Net.Http
-# Exercises-System.Net.Http
-# Exercises-System.Net.Http
+# Exercises System.Net.Http Namespace
+
+## List of Classes
+
+### - HttpClient: GET
+### - HttpClient: POST
