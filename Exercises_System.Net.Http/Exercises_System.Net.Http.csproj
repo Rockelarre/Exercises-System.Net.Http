@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Class_HttpClient.cs" />
+    <Compile Include="Classes\Class_HttpRequestException.cs" />
     <Compile Include="Classes\Class_StringContent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
