@@ -15,6 +15,7 @@ namespace Exercises_System.Net.Http
             Console.WriteLine("2. HttpClient - PostAsync()");
             Console.WriteLine("3. StringContent - CopyToAsync()");
             Console.WriteLine("4. HttpRequestException ex");
+            Console.WriteLine("5. HttpRequestMessage");
 
             Console.WriteLine("");
 
@@ -23,6 +24,7 @@ namespace Exercises_System.Net.Http
             var myHttpClient = new Class_HttpClient();
             var myStringContent = new Class_StringContent();
             var myHttpRequestException = new Class_HttpRequestException();
+            var myHttpRequestMessage = new Class_HttpRequestMessage();
 
             switch (opcion)
             {
@@ -37,6 +39,9 @@ namespace Exercises_System.Net.Http
                     break;
                 case "4":
                     await myHttpRequestException.GetHttpErrors();
+                    break;
+                case "5":
+                    await myHttpRequestMessage.SendDetailedRequest();
                     break;
                 default:
                     Console.WriteLine("Opción no válida");
