@@ -48,11 +48,11 @@ namespace Exercises_System.Net.Http.Classes
                 // Especificar credenciales de autenticación
                 client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Basic", Convert.ToBase64String(Encoding.ASCII.GetBytes("username:password")));
 
-                //
+                // Specify a timeout
                 // Especificar un tiempo de espera
                 client.Timeout = TimeSpan.FromSeconds(10);
 
-                // Specify a timeout
+                // Specify a cancellation token
                 // Especificar un token de cancelación
                 var cancellationTokenSource = new CancellationTokenSource();
                 var cancellationToken = cancellationTokenSource.Token;
