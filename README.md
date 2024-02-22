@@ -1,4 +1,4 @@
-# Exercises for System.Net.Http Namespace
+# Exercises for System.Net.Http Namespace in Console App
 
 ## List of Classes
 
